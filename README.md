@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## Setup
 
 1. Clone the repository
-``bash
+```bash
 git clone https://github.com/afiraaslam/Test.git
 ```
 2. Download llama3 model from [link](https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF/tree/main)
