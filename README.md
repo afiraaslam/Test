@@ -34,13 +34,14 @@ pip install -r requirements.txt
 ``bash
 git clone https://github.com/afiraaslam/Test.git
 ```
-2. Download llama3 model from [link](https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF/tree/main)
+2. Download llama3 model from [link](https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF/tree/main).
 
 3. Update downloaded model path in src.py file
 
 4. run the code by following command
-``bash
+```bash
 python main.py
+```
 
 
 
